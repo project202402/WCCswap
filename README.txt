@@ -1,7 +1,7 @@
 WCCswap-heco
 Introduction and Statement of WCCswap-heco
 WCCswap-heco is a decentralized exchange on the heco blockchain（WCCswap-heco-DEX for heco）.
-WCCswap-heco website:https://project202402.github.io/WCCswap/
+WCCswap-heco website:https://project202402.github.io/WCCswap/#/swap
 WCCswap-heco uses WCC as the platform management token.
 The total number of WCC tokens is 2,000,000,000,000.
 The WCC token address is 0xdbeae997a76ef0ddb8d38851bc0b0e8090b3066b
